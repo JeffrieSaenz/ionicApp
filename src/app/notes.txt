@@ -1,0 +1,9 @@
+=> app folder: entry folder for any ionic project
+=> cualquier modulo que agreguemos debe de estar agregado en app.module.ts, esto para toda la aplicación
+=> tambien se puede generar o añadir modulos directamente en la paginas que queramos
+=> ionic generate page home
+
+-----------------------------------------------------------------------------------------------------
+
+=> Go from another page to another, use NavController
+=> push(page, params, opts): push a page into an array of pages, NavController class
